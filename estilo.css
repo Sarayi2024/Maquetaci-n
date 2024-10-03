@@ -1,0 +1,123 @@
+#cabecera{
+	color: Green,blue;
+	/border: solid;/
+	margin-top:100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 50px; 
+	padding: 20px;
+	background-color:#2ECCFA;
+	box-shadow:#180342 5px 5px 25px;
+	border-radius:50px;
+	background:#a9cce3;
+	
+	/*outline: 2px dashed #000; parte del codigo que nos sirve para hacer lineas puntiadas estilo "recortes"
+	outline-offset:15px;*/ 
+}
+
+#cabecera h1{
+color: rgb(36, 42, 102);
+font: bold 25px MiNuevaFuente, verdana, font.ttf;
+}
+
+#barra{
+background-color:#004f80;
+box-shadow: rgb(24, 3, 66) 5px 5px 25px;
+background: #ffdfac;
+border-radius: 150px;
+/border:solid;/
+margin-top: 15px;
+margin-left: 50px;
+margin-right: 50px;
+padding: 30px;
+margin-bottom: 50px;
+}
+
+#cuerpo{
+background-color:#2ECCF,blue;
+box-shadow: rgb(700,600,1100) 5px 5px 20px;
+background: #a9cce3;
+border-radius: 20px;
+/border: solid;/
+margin-top: 600px;
+margin-right: 400px; 
+margin-left: 460px;
+width: 450px;
+}
+
+#lateral{
+background-color:#180342;
+box-shadow: rgb(700,600,1100) 5px 5px 20px;
+background: #180342 5px 5px 25px;
+border-radius: 20px;
+/border: solid;/
+margin-top:-800px;
+margin-left:70%;
+margin-right:100px;
+position: relative;
+top: -285px;
+
+}
+
+#lateral2{
+background-color:#180342;
+box-shadow:rgb(700,600,1100) 5px 5px 20px;
+background: #180342 5px 5px 25px;
+border-radius: 20px;
+/border: solid;/
+margin-top: 20px;
+margin-left: 70%;
+margin-right: 100px;
+position: relative;
+top: -250px;
+
+}
+	
+#lateral3{
+   
+	background-color:#180342;
+box-shadow: rgb(700,600,1100) 5px 5px 20px;
+background: #180342 5px 5px 25px;
+border-radius: 15px;
+/border: solid;/
+margin-top: -20px;
+margin-left: 150px;
+margin-right: 500px;
+position: relative;
+top: -780px;
+width: 260px;
+}
+
+#lateral4{
+   
+	background-color:#180342;
+box-shadow:rgb(700,600,1100) 5px 5px 20px;
+background: #180342 5px 5px 25px;
+border-radius: 15px;
+/border: solid;/
+margin-top: -20px;
+margin-left: 150px;
+margin-right: 900px;
+position: relative;
+top: -715px;
+
+}
+
+#pie{
+background-color: #2ECCFA;
+box-shadow: rgb(7,6,11) 5px 5px 25px;
+background: -webkit-linear-gradient(top,#ffffff,#006699);
+border-radius:30px;
+margin-top: 20px;
+margin-left: 200px;
+margin-right: 200px;
+position: relative;
+top: -350px;
+
+}
+
+#fondo{
+	background-color: rgb(48, 76, 110);
+background-image:url(IMG3.JPG);
+	background-image:"IMG3.JPG";
+}
